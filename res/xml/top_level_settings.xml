@@ -47,6 +47,14 @@
         android:fragment="com.android.settings.applications.AppAndNotificationDashboardFragment"/>
 
     <Preference
+        android:key="top_level_lotus"
+        android:title="@string/lotus_settings_title"
+        android:summary="@string/lotus_settings_summary"
+        android:icon="@drawable/ic_homepage_lotus"
+        android:order="-95"
+        android:fragment="com.lotus.settings.LotusSettings"/>
+
+    <Preference
         android:key="top_level_battery"
         android:title="@string/power_usage_summary_title"
         android:summary="@string/summary_placeholder"

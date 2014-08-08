@@ -177,4 +177,7 @@ public class Settings extends SettingsActivity {
     public static class AccountDashboardActivity extends SettingsActivity {}
     public static class SystemDashboardActivity extends SettingsActivity {}
 
+    // LotusOS Settings
+    public static class LotusSettingsActivity extends SettingsActivity {}
+
 }
