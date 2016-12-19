@@ -3407,6 +3407,11 @@
             <meta-data android:name="com.android.settings.summary"
                 android:resource="@string/lotus_settings_summary"/>
         </activity>
+
+        <!-- Gesture Anywhere -->
+        <activity android:name="com.lotus.settings.gestureanywhere.GestureAnywhereBuilderActivity" />
+        <activity android:name="com.lotus.settings.gestureanywhere.GestureAnywhereCreateGestureActivity" />
+
         <!-- This is the longest AndroidManifest.xml ever. -->
     </application>
 </manifest>
