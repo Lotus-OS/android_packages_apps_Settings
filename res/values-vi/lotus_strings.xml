@@ -420,4 +420,10 @@
     <string name="donate">Ủng hộ</string>
     <string name="donate_description">Hỗ trợ chúng tôi</string>
 
+    <!-- Selinux -->
+    <string name="selinux_status">Trạng thái SELinux</string>
+    <string name="selinux_status_disabled">Tắt</string>
+    <string name="selinux_status_permissive">Cho phép</string>
+    <string name="selinux_status_enforcing">Thực thi</string>
+
 </resources>
