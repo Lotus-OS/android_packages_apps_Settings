@@ -19,4 +19,10 @@
     <string name="lotus_settings_title">LotusOS Settings</string>
     <string name="lotus_settings_summary">Android 10 ( Quiche )</string>
 
+    <!-- SELinux status -->
+    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+
 </resources>
