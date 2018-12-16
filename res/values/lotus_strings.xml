@@ -430,5 +430,14 @@
     <string name="app_notification_sound_timeout_value_5_minutes">5 minutes</string>
     <string name="app_notification_sound_timeout_value_15_minutes">10 minutes</string>
     <string name="app_notification_sound_timeout_value_30_minutes">30 minutes</string>
+	
+	<!-- LotusOS info -->
+    <string name="lotus_title">Lotus</string>
+    <string name="lotus_info">Lotus version</string>
+    <string name="lotus_maintainer">Maintainer</string>
+    <string name="lotus_date">Build date</string>
+    <string name="lotus_type">Build type</string>
+    <string name="lotus_device">Device</string>
+    <string name="lotus_version">Version</string>
 
 </resources>
