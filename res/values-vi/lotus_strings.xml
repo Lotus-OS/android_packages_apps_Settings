@@ -160,6 +160,8 @@
     <!-- Pocket judge -->
     <string name="pocket_judge_title">Phát hiện trong túi</string>
     <string name="pocket_judge_summary">Khoá màn hình và các phím khi thiết bị trong túi của bạn</string>
+	<string name="pocket_judge_fp_title">Cho phép FP ở chế độ bỏ túi</string>
+    <string name="pocket_judge_fp_summary">Nghe dấu vân tay khi phát hiện túi đang hoạt động</string>
     <!-- LiveDisplay -->
     <string name="color_settings_title">Cài đặt màu</string>
     <string name="color_settings_summary">Điều chỉnh và cải thiện màu sắc màn hình</string>
