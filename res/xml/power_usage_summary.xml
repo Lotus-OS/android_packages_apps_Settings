@@ -55,6 +55,20 @@
         android:key="smart_charging_key"
         android:title="@string/smart_charging_title"
         android:summary="@string/smart_charging_summary" />
+   
+   <com.lotus.settings.preferences.SystemSettingSwitchPreference
+        android:key="show_battery_estimate"
+        android:title="@string/show_battery_estimate_title"
+        android:summary="@string/show_battery_estimate_summary"
+        android:defaultValue="true" />
+
+    <com.lotus.settings.preferences.SystemSettingListPreference
+        android:key="battery_estimate_position"
+        android:title="@string/battery_estimate_position_title"
+        android:entries="@array/battery_estimate_position_entries"
+        android:entryValues="@array/battery_estimate_position_values"
+        android:dependency="show_battery_estimate"
+        android:defaultValue="0" />
 
     <com.android.settings.fuelgauge.PowerGaugePreference
         android:key="last_full_charge"
