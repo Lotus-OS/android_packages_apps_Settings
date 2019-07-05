@@ -17,6 +17,7 @@
         <item>hungphan2001</item>
         <item>wolverine</item>
         <item>saurabhcharde</item>
+        <item>Qasim Ali</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -24,6 +25,7 @@
         <item>Xiaomi Redmi Note 4 (mido)</item>
         <item>Xiaomi Redmi 3S (land)</item>
         <item>Asus Zenfone Max Pro M1 (X00T/D)</item>
+        <item>Xiaomi Redmi Note 5 Pro(whyred)</item>
      </string-array>
 
     <!-- Telegram URL of maintainer -->
@@ -31,6 +33,7 @@
         <item>https://t.me/hungphan2001</item>
         <item>https://t.me/Wolverine_X99</item>
         <item>https://t.me/SaurabhCharde</item> 
+        <item>https://t.me/QasimXAli</item>
      </string-array>
 
 </resources>
