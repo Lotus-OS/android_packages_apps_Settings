@@ -337,7 +337,7 @@
 
     <!-- Lotus settings -->
     <string name="lotus">Cài Đặt Hoa Sen</string>
-    <string name="lotus_settings_summary">Bất cứ điều gì cần để tùy chỉnh thiết bị của bạn</string>
+    <string name="lotus_settings_summary">Hãy nên trân trọng những gì mình đã làm ra!</string>
 
     <!-- Notification log -->
     <string name="notification_log_summary">Hiển thị nhật ký lịch sử thông báo</string>
