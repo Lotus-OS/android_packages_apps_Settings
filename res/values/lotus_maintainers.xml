@@ -15,6 +15,7 @@
     <!-- Maintainers -->
     <string-array name="maintainers_title" translatable="false">
         <item>hungphan2001</item>
+        <item>hungphan2001</item>
         <item>ᗴᖇᏆᑕᏦ ᗴᗩᏀᏞᗴ</item>
         <item>wolverine</item>
         <item>saurabhcharde</item>
@@ -26,6 +27,7 @@
     <!-- Devices maintained by maintainer -->
     <string-array name="maintainers_devices" translatable="false">
         <item>Xiaomi Redmi Note 4 (mido)</item>
+        <item>Xiaomi Redmi Note 5 (vince)</item>
         <item>Xiaomi Redmi 4X</item>
         <item>Xiaomi Redmi 3S (land)</item>
         <item>Asus Zenfone Max Pro M1 (X00T/D)</item>
@@ -36,6 +38,7 @@
 
     <!-- Telegram URL of maintainer -->
     <string-array name="maintainers_url" translatable="false">
+        <item>https://t.me/hungphan2001</item>
         <item>https://t.me/hungphan2001</item>
         <item>https://t.me/NBD_ERICK</item>
         <item>https://t.me/Wolverine_X99</item>
