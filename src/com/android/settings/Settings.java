@@ -175,4 +175,5 @@ public class Settings extends SettingsActivity {
 
     // LotusOS
     public static class LotusSettingsActivity extends SettingsActivity {}
+    public static class GamingModeActivity extends SettingsActivity {}
 }
