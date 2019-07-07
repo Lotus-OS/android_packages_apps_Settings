@@ -15,9 +15,10 @@
     <!-- Maintainers -->
     <string-array name="maintainers_title" translatable="false">
         <item>hungphan2001</item>
-        <item>hungphan2001</item>
+        <item>ᗴᖇᏆᑕᏦ ᗴᗩᏀᏞᗴ</item>
         <item>wolverine</item>
         <item>saurabhcharde</item>
+        <item>Ashok Varma</item>
         <item>Qasim Ali</item>
         <item>ten¢t</item>
    </string-array>
@@ -28,6 +29,7 @@
         <item>Xiaomi Redmi 4X</item>
         <item>Xiaomi Redmi 3S (land)</item>
         <item>Asus Zenfone Max Pro M1 (X00T/D)</item>
+        <item>Asus Zenfone Max Pro M2 (X01BD)</item>
         <item>Xiaomi Redmi Note 5 Pro(whyred)</item>
         <item>Xiaomi Redmi5A</item>
      </string-array>
@@ -35,9 +37,10 @@
     <!-- Telegram URL of maintainer -->
     <string-array name="maintainers_url" translatable="false">
         <item>https://t.me/hungphan2001</item>
-        <item>https://t.me/hungphan2001</item>
+        <item>https://t.me/NBD_ERICK</item>
         <item>https://t.me/Wolverine_X99</item>
         <item>https://t.me/SaurabhCharde</item> 
+        <item>https://t.me/TheAshokVarma</item>
         <item>https://t.me/QasimXAli</item>
         <item>https://t.me/layixin9</item>
      </string-array>
