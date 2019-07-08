@@ -28,6 +28,7 @@
     <!-- Thermal control per app -->
     <!-- Notch behavior -->
     <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">မျက်နှာပြင်အပြည့်ပေါ်ပေးသည့် အက်ပ်များ</string>
     <!-- In-call feedback -->
     <!-- Fingerprint authentication vibration -->
     <!-- Double tap to sleep on status bar or lockscreen -->

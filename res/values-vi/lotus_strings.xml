@@ -141,7 +141,7 @@
     <string name="display_cutout_mode_hidden">Ẩn</string>
     <!-- Notch: Full screen apps -->
     <string name="display_cutout_force_fullscreen_title">Ứng dụng toàn màn hình</string>
-    <string name="display_cutout_force_fullscreen_summary">Buộc các ứng dụng bỏ qua không gian notch</string>
+
     <!-- In-call feedback -->
     <string name="incall_feeedback_vibrate_title">Rung để chỉ trạng thái cuộc gọi</string>
     <!-- Fingerprint authentication vibration -->
@@ -207,13 +207,6 @@
     <string name="pocket_judge_title">Phát hiện trong túi</string>
     <string name="pocket_judge_summary">Khoá màn hình và các phím khi thiết bị trong túi của bạn</string>
     <!-- LiveDisplay -->
-    <string name="live_display_summary">Tối ưu hóa màn hình dựa trên điều kiện môi trường và thời gian trong ngày để cải thiện khả năng đọc và giảm mỏi mắt</string>
-    <string name="live_display_mode">Chế độ hiển thị</string>
-    <string name="live_display_color_temperature_title">Nhiệt độ màu</string>
-    <string name="live_display_color_temperature_summary">Ngày: <xliff:g id="day_temperature">%1$d</xliff:g>K  Đêm: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
-    <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
-    <string name="live_display_day">Ngày</string>
-    <string name="live_display_night">Đêm</string>
     <string name="live_display_outdoor_mode_title">Chế độ ngoài trời tự động</string>
     <string name="live_display_outdoor_mode_summary">Tự động tăng độ sáng và độ bão hòa dưới ánh sáng mặt trời</string>
     <string name="live_display_low_power_title">Giảm tiêu thụ pin</string>
@@ -266,7 +259,7 @@
     <string name="dark_theme_style_title">Chế độ nền tối</string>
     <string name="dark_theme_style_default">Mặc định</string>
     <string name="dark_theme_style_black">Đen</string>
-	
+
 	<!-- QS header styles -->
     <string name="qs_header_style_title">Kiểu tiêu đề QS</string>
     <string name="qs_header_black">Đen</string>
@@ -274,7 +267,7 @@
     <string name="qs_header_lightgrey">Xám nhạt</string>
     <string name="qs_header_accent">Dựa vào dấu</string>
     <string name="qs_header_transparent">Trong suốt</string>
-	
+
 	<!-- Switch styles -->
     <string name="switch_style_title">Chuyển đổi ngoại hình</string>
     <string name="switch_default">Mặc định</string>
@@ -289,19 +282,19 @@
     <string name="switch_seven">Chuyển Bảy</string>
     <string name="switch_eight">Chuyển Tám</string>
     <string name="switch_nine">Chuyển Chín</string>
-	
+
 	<!-- Font picker -->
     <string name="font_picker_title">Phông chữ</string>
     <string name="font_picker_progress">Áp dụng phông chữ mới\u2026</string>
-	
+
 	<!-- Battery estimates -->
     <string name="battery_estimates_title">Ước tính pin trong QS</string>
     <string name="battery_estimates_summary">Tuổi thọ pin ước tính trong bảng QS</string>
-	
+
 	<!-- LotusOS version -->
     <string name="lotus_version">Phiên bản ROM</string>
     <string name="lotus_version_default">Không xác định</string>
-	
+
     <!-- Smart charging -->
     <string name="smart_charging_title">Sạc Thông minh</string>
     <string name="smart_charging_summary">Kéo dài tuổi thọ của pin</string>
@@ -311,7 +304,7 @@
 	<string name="smart_charging_reset_stats_title">Đặt lại thống kê pin</string>
     <string name="smart_charging_reset_stats_summary">Đặt lại thống kê pin sau khi đạt mức sạc do người dùng xác định</string>
     <string name="smart_charging_footer">Sạc thông minh cho phép bạn đặt mức sạc tối đa để kéo dài tuổi thọ của pin</string>
-	
+
 	<!-- Doze on Charge -->
     <string name="doze_on_charge_title">Hiện thị khi sạc</string>
     <string name="doze_on_charge_summary">Thức dậy khi sạc</string>
@@ -328,7 +321,7 @@
     <string name="aggressive_idle_summary">Nhập thiết bị nhàn rỗi thường xuyên hơn và thức dậy ít hơn</string>
     <string name="aggressive_standby_title">Chờ đợi tích cực</string>
     <string name="aggressive_standby_summary">Hạn chế các ứng dụng chạy nền</string>
-    <string name="aggressive_battery_saver_title">Tự động bật trên trình tiết kiệm pin</string> 
+    <string name="aggressive_battery_saver_title">Tự động bật trên trình tiết kiệm pin</string>
     <string name="aggressive_battery_saver_summary">Tự động bật Pin tích cực khi sử dụng trình tiết kiệm pin</string>
 
     <!-- Battery saving mode for Location - GPS will be disabled -->
@@ -400,11 +393,11 @@
     <string name="expanded_desktop_style">Kiểu máy tính để bàn mở rộng</string>
     <string name="expanded_desktop_style_description">Chọn kiểu máy tính để bàn mở rộng mặc định</string>
     <string name="expanded_desktop_title">Tùy chọn máy tính để bàn mở rộng</string>
-	
+
 	<!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Mở khóa nhanh</string>
     <string name="unlock_quick_unlock_control_summary">Tự động mở khóa khi nhập mã PIN / mật khẩu chính xác</string>
-	
+
 	<!-- About LotusOS -->
     <string name="lotus_about_info">Về chúng tôi</string>
     <string name="lotus_about_summary">Giới thiệu của chúng tôi và nhóm của chúng tôi</string>

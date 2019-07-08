@@ -191,6 +191,42 @@
     <string name="network_traffic_mode_disable">غیرفعال</string>
     <!-- Pocket judge -->
     <!-- LiveDisplay -->
+    <string name="live_display_outdoor_mode_title">حالت خودکار فضای باز</string>
+    <string name="live_display_outdoor_mode_summary">افزایش خودکار روشنایی و اشباع رنگ در هنگام قرارگیری زیر نور خورشید</string>
+    <string name="live_display_low_power_title">کاهش مصرف نیرو</string>
+    <string name="live_display_low_power_summary">تنظیم صفحه نمایش برای کمترین مصرف نیرو بدون کاهش کارایی</string>
+    <string name="live_display_enhance_color_title">بهبود رنگ‌ها</string>
+    <string name="live_display_enhance_color_summary">بهبود طراوت رنگ پوست بدن، مناظر و تصاویر دیگر</string>
+    <string name="live_display_color_profile_title">نمایه رنگ</string>
+    <string name="live_display_color_profile_standard_title">استاندارد</string>
+    <string name="live_display_color_profile_standard_summary">رنگ‌های دقیق و سفید روشن</string>
+    <string name="live_display_color_profile_natural_title">طبیعی</string>
+    <string name="live_display_color_profile_natural_summary">رنگ پوست رو رنگ‌های دیگر به صورت واقع‌نما</string>
+    <string name="live_display_color_profile_dynamic_title">پویا</string>
+    <string name="live_display_color_profile_dynamic_summary">رنگ‌های بهبود یافته و سفید روشن</string>
+    <string name="live_display_color_profile_cinema_title">سینما</string>
+    <string name="live_display_color_profile_cinema_summary">بازآفرینی رنگ بی‌‌نقص برای ویدیو</string>
+    <string name="live_display_color_profile_astronomy_title">ستاره شناسی</string>
+    <string name="live_display_color_profile_astronomy_summary">قرمز پررنگ برای حفظ عکاسی در شب</string>
+    <string name="live_display_color_profile_photography_title">عکاسی</string>
+    <string name="live_display_color_profile_photography_summary">بازآفرینی رنگ بی‌نقص برای عکس‌ها</string>
+    <string name="live_display_color_profile_basic_title">پایه</string>
+    <string name="live_display_color_profile_basic_summary">استفاده از صفحه به صورت تنظیم نشده</string>
+    <string name="live_display_color_profile_adaptive_title">تطبیقی</string>
+    <string name="live_display_color_profile_adaptive_summary">تطبیق زنگ‌ها با شرایط محیطی</string>
+    <string name="live_display_color_profile_reading_title">مطالعه</string>
+    <string name="live_display_color_profile_reading_summary">رنگ‌های گرم‌تر برای کاهش خستگی چشم</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">رنگ‌های مطابق با فضای رنگ sRGB</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">رنگ‌های مطابق با فضای رنگ DCI-P3</string>
+    <string name="live_display_reading_mode_title">حالت مطالعه</string>
+    <string name="live_display_reading_mode_summary">حالت سیاه و سفید برای مطالعه طولانی</string>
+    <string name="color_calibration_title">تنظیم رنگ‌ها</string>
+    <string name="color_calibration_summary">تنظیم رنگ صفحه نمایش</string>
+    <string name="color_red_title">قرمز</string>
+    <string name="color_green_title">سبز</string>
+    <string name="color_blue_title">آبی</string>
     <!-- LiveDisplay : Picture Adjustment -->
     <!-- LiveDisplay - Custom theme mode -->
     <!-- Three-fingers-swipe to screenshot -->
