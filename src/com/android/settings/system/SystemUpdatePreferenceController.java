@@ -33,7 +33,7 @@ public class SystemUpdatePreferenceController extends BasePreferenceController {
 
     private static final String OTA_BUILD_TYPE_PROP = "ro.lotus.build_type";
     private static final String DEVICE_NAME = "ro.lotus.device";
-    private static final String OTA_APP_PACKAGE = "ro.lotus.ota";
+    private static final String OTA_APP_PACKAGE = "com.lotus.ota";
 
     private final UserManager mUm;
 
