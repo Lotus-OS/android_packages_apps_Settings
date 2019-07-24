@@ -22,6 +22,7 @@
         <item>Ashok Varma</item>
         <item>Qasim Ali</item>
         <item>ten¢t</item>
+         <item>PriQue77</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -34,6 +35,7 @@
         <item>Asus Zenfone Max Pro M2 (X01BD)</item>
         <item>Xiaomi Redmi Note 5 Pro(whyred)</item>
         <item>Xiaomi Redmi5A</item>
+         <item>Xiaomi Redmi Note 7</item>
      </string-array>
 
     <!-- Telegram URL of maintainer -->
@@ -46,6 +48,7 @@
         <item>https://t.me/TheAshokVarma</item>
         <item>https://t.me/QasimXAli</item>
         <item>https://t.me/layixin9</item>
+         <item>https://t.me/PriQue77</item>
      </string-array>
 
 </resources>
