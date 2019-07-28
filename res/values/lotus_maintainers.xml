@@ -25,6 +25,7 @@
         <item>PriQue77</item>
         <item>sasi2006166</item>
         <item>jbsjoshua007</item>
+        <item>Speedhorn</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -40,6 +41,7 @@
         <item>Xiaomi Redmi Note 7</item>
         <item>Samsung Galaxy J7 2016</item>
         <item>Samsung Galaxy J7 Prime</item>
+        <item>Xiaomi Redmi 5</item>
      </string-array>
 
     <!-- Telegram URL of maintainer -->
@@ -55,6 +57,7 @@
         <item>https://t.me/PriQue77</item>
         <item>https://t.me/sasi2006166</item>
         <item>https://t.me/jbsjoshua007</item>
+        <item>https://t.me/Speedhorn</item>
      </string-array>
 
 </resources>
