@@ -284,34 +284,34 @@
     <string name="aggressive_battery_saver_summary">当使用省电模式时自动开启极限省电</string>
     <!-- Battery saving mode for Location - GPS will be disabled -->
     <string name="location_mode_battery_saving_title">省电模式</string>
-    <string name="location_mode_battery_saving_summary">Use only Wi\u2011Fi, Bluetooth, or mobile networks to determine location (less accurate)</string>
+    <string name="location_mode_battery_saving_summary">仅使用 Wi-Fi、蓝牙或移动网络来测定位置（精准度低）</string>
     <!-- Battery charge warning -->
-    <string name="notification_sound_battery_charge_title">Enable battery charge level warning</string>
-    <string name="notification_battery_charge_level_title">Battery charge warning</string>
-    <string name="notification_battery_charge_level_summary">Play a sound when the battery as reach a level when charging</string>
-    <string name="notification_battery_charge_level_seek_bar">Battery level</string>
-    <string name="notification_battery_charge_level_ringtone">Ringtone</string>
-    <string name="notification_battery_charge_level_silent">Silent</string>
+    <string name="notification_sound_battery_charge_title">启用充电量警告</string>
+    <string name="notification_battery_charge_level_title">电池充电警告</string>
+    <string name="notification_battery_charge_level_summary">充电时电池达到预定水平时播放声音</string>
+    <string name="notification_battery_charge_level_seek_bar">电池电量</string>
+    <string name="notification_battery_charge_level_ringtone">铃声</string>
+    <string name="notification_battery_charge_level_silent">静音</string>
     <!-- QS header styles -->
     <string name="qs_header_style_title">QS header style</string>
-    <string name="qs_header_black">Black</string>
-    <string name="qs_header_grey">Grey</string>
-    <string name="qs_header_lightgrey">Light Grey</string>
-    <string name="qs_header_accent">Accent Based</string>
-    <string name="qs_header_transparent">Transparent</string>
+    <string name="qs_header_black">黑色</string>
+    <string name="qs_header_grey">灰色</string>
+    <string name="qs_header_lightgrey">浅灰色</string>
+    <string name="qs_header_accent">基于强调色</string>
+    <string name="qs_header_transparent">透明</string>
     <!-- Switch styles -->
-    <string name="switch_style_title">Switch appearance</string>
-    <string name="switch_default">Default</string>
-    <string name="switch_md2">Material Design 2</string>
-    <string name="switch_oneplus">OnePlus</string>
-    <string name="switch_one">Switch One</string>
-    <string name="switch_two">Switch Two</string>
-    <string name="switch_three">Switch Three</string>
-    <string name="switch_four">Switch Four</string>
-    <string name="switch_five">Switch Five</string>
-    <string name="switch_six">Switch Six</string>
-    <string name="switch_seven">Switch Seven</string>
-    <string name="switch_eight">Switch Eight</string>
+    <string name="switch_style_title">切换外观</string>
+    <string name="switch_default">默认</string>
+    <string name="switch_md2">Material 设计 2</string>
+    <string name="switch_oneplus">一加</string>
+    <string name="switch_one">切换1</string>
+    <string name="switch_two">切换2</string>
+    <string name="switch_three">切换 3</string>
+    <string name="switch_four">切换4</string>
+    <string name="switch_five">切换5</string>
+    <string name="switch_six">切换6</string>
+    <string name="switch_seven">切换 7</string>
+    <string name="switch_eight">切换8</string>
     <string name="switch_nine">Switch Nine</string>
     <!-- Font picker -->
     <string name="font_picker_title">System Font</string>
