@@ -165,7 +165,12 @@
                 <item>com.google.android.theme.burningred</item> 
                 <item>com.google.android.theme.labouchered</item> 
                 <item>com.google.android.theme.misleadingred</item> 
-                <item>com.google.android.theme.whythisgrey</item>                
+                <item>com.google.android.theme.whythisgrey</item>
+                <item>org.evolutionx.overlay.accent.pixelblue</item>
+        <item>org.evolutionx.overlay.accent.qcinnamon</item>
+        <item>org.evolutionx.overlay.accent.qocean</item>
+        <item>org.evolutionx.overlay.accent.qorchid</item>
+        <item>org.evolutionx.overlay.accent.qspace</item>
     </string-array>
     <string-array name="allowed_themes_when_light" translatable="false">
         <item>org.pixelexperience.overlay.accent.black</item>
