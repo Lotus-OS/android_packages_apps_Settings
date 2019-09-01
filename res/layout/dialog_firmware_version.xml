@@ -52,19 +52,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
-        <!-- Lotus version -->
-        <TextView
-            style="@style/device_info_dialog_label"
-            android:id="@+id/lotus_version_label"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/lotus_version"/>
-        <TextView
-            style="@style/device_info_dialog_value"
-            android:id="@+id/lotus_version_value"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
-
         <TextView
             style="@style/device_info_dialog_label"
             android:id="@+id/security_patch_level_label"
