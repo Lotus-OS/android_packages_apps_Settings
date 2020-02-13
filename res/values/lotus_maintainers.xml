@@ -15,6 +15,7 @@
     <!-- Maintainers -->
     <string-array name="maintainers_title" translatable="false">
         <item>Nobi Nobita</item>
+        <item>Dinh San 🇻🇳</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -39,6 +40,7 @@
     <!-- Telegram URL of maintainer -->
     <string-array name="maintainers_url" translatable="false">
         <item>https://t.me/polanobi</item>
+        <item>https://t.me/san2k</item>
      </string-array>
 
 </resources>
