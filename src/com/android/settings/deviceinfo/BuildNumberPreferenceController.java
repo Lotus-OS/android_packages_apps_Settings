@@ -46,8 +46,8 @@ import com.android.settingslib.core.lifecycle.LifecycleObserver;
 import com.android.settingslib.core.lifecycle.events.OnStart;
 import com.android.settingslib.development.DevelopmentSettingsEnabler;
 
-public class BuildNumberPreferenceController extends BasePreferenceController implements
-        LifecycleObserver, OnStart {
+public class BuildNumberPreferenceController extends AbstractPreferenceController implements
+        PreferenceControllerMixin, LifecycleObserver, OnResume {
 
     static final int TAPS_TO_BE_A_DEVELOPER = 7;
     static final int REQUEST_CONFIRM_PASSWORD_FOR_DEV_PREF = 100;
@@ -75,13 +75,16 @@ public class BuildNumberPreferenceController extends BasePreferenceController im
     }
 
     @Override
-    public CharSequence getSummary() {
-        StringBuilder sb = new StringBuilder();
-        sb.append(BidiFormatter.getInstance().unicodeWrap(Build.DISPLAY));
-        String pixelExperienceVersion = VersionUtils.getPixelExperienceVersion();
-        if (!pixelExperienceVersion.equals("")){
-            sb.append("\n");
-            sb.append(pixelExperienceVersion);
+    public void displayPreference(PreferenceScreen screen) {
+        super.displayPreference(screen);
+        final Preference preference = screen.findPreference(KEY_BUILD_NUMBER);
+        if (preference != null) {
+            try {
+                preference.setSummary(BidiFormatter.getInstance().unicodeWrap(Build.DISPLAY));
+                preference.setEnabled(true);
+            } catch (Exception e) {
+                preference.setSummary(R.string.device_info_default);
+            }
         }
         return sb.toString();
     }
@@ -95,11 +98,6 @@ public class BuildNumberPreferenceController extends BasePreferenceController im
         mDevHitCountdown = DevelopmentSettingsEnabler.isDevelopmentSettingsEnabled(mContext)
                 ? -1 : TAPS_TO_BE_A_DEVELOPER;
         mDevHitToast = null;
-    }
-
-    @Override
-    public int getAvailabilityStatus() {
-        return AVAILABLE;
     }
 
     @Override
