@@ -37,12 +37,12 @@
         <intent android:action="android.intent.action.POWER_USAGE_SUMMARY" />
     </shortcut>
     <shortcut
-        android:shortcutId="manifest-shortcut-pixelgoodies"
-        android:icon="@drawable/ic_settings_illusion"
-        android:shortcutShortLabel="@string/pixelgoodies_title" >
+        android:shortcutId="manifest-shortcut-lotus"
+        android:icon="@drawable/ic_settings_lotus"
+        android:shortcutShortLabel="@string/lotus_title" >
         <intent
             android:action="android.intent.action.MAIN"
             android:targetPackage="com.android.settings"
-            android:targetClass="com.android.settings.Settings$PixelGoodiesSettingsActivity" />
+            android:targetClass="com.android.settings.Settings$LotusSettingsActivity" />
     </shortcut>
 </shortcuts>

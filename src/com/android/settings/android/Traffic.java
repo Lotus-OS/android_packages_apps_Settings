@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.pe;
+package com.android.settings.android;
 
 import com.android.internal.logging.nano.MetricsProto;
 
@@ -41,8 +41,8 @@ import android.text.TextUtils;
 import android.view.View;
 
 import com.android.settings.SettingsPreferenceFragment;
-import com.pe.support.preference.CustomSeekBarPreference;
-import com.pe.support.preference.SystemSettingSwitchPreference;
+import com.android.support.preference.CustomSeekBarPreference;
+import com.android.support.preference.SystemSettingSwitchPreference;
 import com.android.settings.Utils;
 import android.util.Log;
 
@@ -103,7 +103,7 @@ public class Traffic extends SettingsPreferenceFragment implements
 
     @Override
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.PIXELGOODIES;
+        return MetricsProto.MetricsEvent.LOTUS;
     }
 }
 

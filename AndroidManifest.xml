@@ -3280,13 +3280,13 @@
                 android:value="com.android.settings.gestures.GlobalActionsPanelSettings" />
         </activity>
 
-        <!-- PixelGoodies -->
-        <activity android:name=".Settings$PixelGoodiesSettingsActivity"
-            android:label="@string/pixelgoodies_title"
-            android:icon="@drawable/ic_homepage_pixelgoodies"
+        <!-- LotusOS -->
+        <activity android:name=".Settings$LotusSettingsActivity"
+            android:label="@string/lotus_title"
+            android:icon="@drawable/ic_homepage_lotus"
             android:taskAffinity="">
             <intent-filter android:priority="1">
-                <action android:name="com.pe.pixelgoodies.PixelGoodiesSettings" />
+                <action android:name="com.android.lotus.LotusSettings" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
             <intent-filter>
@@ -3298,11 +3298,11 @@
             <meta-data android:name="com.android.settings.category"
                 android:value="com.android.settings.category.ia.homepage" />
             <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
-                android:value="com.pe.pixelgoodies.PixelGoodiesSettings" />
+                android:value="com.android.lotus.LotusSettings" />
             <meta-data android:name="com.android.settings.PRIMARY_PROFILE_CONTROLLED"
                 android:value="true" />
             <meta-data android:name="com.android.settings.summary"
-                android:resource="@string/pixelgoodies_activity_summary"/>
+                android:resource="@string/lotus_activity_summary"/>
         </activity>
 
         <!-- This is the longest AndroidManifest.xml ever. -->

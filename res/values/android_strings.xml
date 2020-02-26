@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2015-2018 PIXEL GOODIES
+     Copyright (C) 2020-2021 LotusOS
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,9 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- PixelGoodies -->
-    <string name="pixelgoodies_title">PixelGoodies</string>
-    <string name="pixelgoodies_activity_summary">Pixelify Your Device</string>
+    <!-- LotusOS -->
+    <string name="lotus_title">LotusOS</string>
+    <string name="lotus_activity_summary">LotusOS Editor Settings</string>
 
     <!-- Back Gesture Height -->
     <string name="back_height_low_label">Full</string>
